@@ -10,6 +10,7 @@
 - [Insights](#insights)
 - [ Challenges](#challenges)
 - [Conclusion](#conclusion)
+- [Reference](#reference)
 
 ## Project Overview
 
@@ -190,6 +191,10 @@ Maintaining equilibrium in order to guarantee thorough coverage without becoming
 ### Conclusion
 The critical skills and trends that shape this changing field have been highlighted in this highly informative investigation of the data analyst job market. The knowledge I gained broadens my perspective and offers practical advice to anyone hoping to progress in the data analytics field. To stay ahead in data analytics, continuous analysis will be necessary as the market changes. This project emphasizes the value of ongoing learning and adaptation in the data field and provides a solid basis for further research. 
 
+### Reference
+
+Luke Barousse
+- Python for Data Analytics
 
 
 
